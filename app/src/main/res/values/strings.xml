@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Alien Clock</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Alarm</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="edit_time">Edit Time</string>
+    <string name="edit_date">Edit Date</string>
+    <string name="reset">Reset</string>
+    <string name="hint_day">Day</string>
+    <string name="hint_month">Month</string>
+    <string name="hint_year">Year</string>
+    <string name="hint_hour">Hour</string>
+    <string name="hint_min">Minute</string>
+    <string name="hint_second">Second</string>
+    <string name="error_invalid_data">Please input a valid data</string>
+    <string name="error_invalid_month">Please input a valid month</string>
+    <string name="error_invalid_day">Please input a valid day</string>
+    <string name="error_invalid_hour">Please input a valid hour</string>
+    <string name="error_invalid_min">Please input a valid minute</string>
+    <string name="error_invalid_second">Please input a valid second</string>
+
+    <string name="tv_schedule_alarm_text">Schedule alarm</string>
+    <string name="et_alarm_name_hint">Alarm name</string>
+    <string name="cb_recurring_alarm_text">Recurring alarm</string>
+    <string name="btn_schedule_alarm_text">Schedule</string>
+    <string name="btn_cancel_alarm_text">Cancel</string>
+    <string name="btn_snooze_5_min_text">Snooze 5 min</string>
+    <string name="update_alarm">Update</string>
+</resources>
